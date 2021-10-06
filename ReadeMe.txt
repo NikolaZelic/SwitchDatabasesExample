@@ -1,0 +1,16 @@
+Ideja ovog zadatka je da se napravi primer u kojem je moguce zameniti bazu podataka.
+
+Funkcionalnost aplikacije:
+- Postoje kokteli
+- Postoje namernice
+- Koktel moze imati jednu ili vise namernica
+- Ista namernica moze biti na vise koktela
+- Moguce je napraviti, izmeniti, obrisati i pregledati koktele
+- Moguce je pretraziti koktele po namernicama koje sadrze
+
+Cilj arhitekture:
+- Prva verzija aplikacije treba da tadi sa in memory bazom podataka
+- Druga verzija aplikacije treba da rado sa MySQL bazom podataka
+
+STIGAO DO:
+Napravi perent moduo za Spring module

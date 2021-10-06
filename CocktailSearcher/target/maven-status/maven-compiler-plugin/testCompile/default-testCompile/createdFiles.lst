@@ -1,0 +1,4 @@
+com/zelic/DeleteCocktailTests.class
+com/zelic/CreateCocktailTests.class
+com/zelic/EditCocktailTests.class
+com/zelic/mocks/CocktailRepositoryMock.class
